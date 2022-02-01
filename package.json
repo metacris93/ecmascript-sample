@@ -1,0 +1,16 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "es6": "node src/es6/index.js",
+    "es7": "node src/es7/index.js",
+    "es8": "node src/es8/index.js",
+    "es9": "node src/es9/index.js",
+    "es10": "node src/es10/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
